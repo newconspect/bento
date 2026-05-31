@@ -78,7 +78,7 @@ const CONFIG = {
 		{
 			id: '5',
 			name: 'YouTube',
-			icon: 'youtube',
+			icon: 'monitor-play',
 			link: 'https://www.youtube.com/',
 		},
 		{
